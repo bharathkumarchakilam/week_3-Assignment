@@ -1,0 +1,2 @@
+Report Title: Monthly Sales
+Content: This report contains sales data for the month.
