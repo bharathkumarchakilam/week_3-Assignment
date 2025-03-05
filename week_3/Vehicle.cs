@@ -10,7 +10,6 @@ namespace week_3
 
     class Vehicle
     {
-        // Virtual method to be overridden by derived classes
         public virtual void Start()
         {
             Console.WriteLine("Vehicle is starting...");
